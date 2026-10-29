@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-29T16:06:25.258289+07:00",
+  "items": [
+    {
+      "id": "tin-tuc-online-20261029",
+      "title": "Tin Tức Online trên Launcher Tu Tiên Giới",
+      "description": "Launcher có thể nhận thông báo mới trực tiếp từ GitHub, giữ bản tin đã lưu để đọc khi mất mạng.",
+      "date": "2026-10-29",
+      "category": "LAUNCHER",
+      "body": "Tin tức trực tuyến đã được bổ sung cho Launcher Tu Tiên Giới.\n\nKhi mở Launcher, bản tin được kiểm tra ở chế độ nền. Bạn cũng có thể vào Tin Tức và bấm Làm mới tin. Launcher tự kiểm tra lại mỗi 10 phút khi còn mở.\n\nNếu mất Internet, Launcher hiển thị bản tin gần nhất đã lưu hoặc hướng dẫn đi kèm trong máy. Phần tin tức không yêu cầu Server game đang chạy và không cản việc chơi offline.\n\nĐây là cập nhật Tin Tức Online. Chức năng tự tải/cài bản vá trực tuyến chưa được triển khai.",
+      "imageUrl": "https://raw.githubusercontent.com/lionesthang45-jpg/tutiengioi-offline/main/launcher/news/images/tien-canh.png",
+      "url": "https://github.com/lionesthang45-jpg/tutiengioi-offline/blob/main/launcher/news/HUONG_DAN_TIN_TUC.md",
+      "demo": false
+    },
+    {
+      "id": "huong-dan-bao-loi-20261029",
+      "title": "Cách gửi thông tin khi cần hỗ trợ",
+      "description": "Xuất gói chẩn đoán trong trang Hỗ Trợ và gửi qua nhóm Zalo Tu Tiên Giới.",
+      "date": "2026-10-29",
+      "category": "HỖ TRỢ",
+      "body": "Khi gặp lỗi, mở Launcher → Hỗ Trợ → Xuất gói hỗ trợ. Ghi thêm thao tác vừa thực hiện, thông báo lỗi và gửi cho Thắng qua nhóm Zalo đã có trong Launcher.\n\nGói HoTro có thể chứa thông tin máy và bản cài; hãy gửi riêng cho người hỗ trợ, không đăng công khai lên repository.\n\nTrước khi tắt máy, thoát Client bình thường rồi dùng Dừng An Toàn và chờ hoàn tất. Đóng riêng cửa sổ Launcher không tự dừng Server.",
+      "demo": false
+    }
+  ]
+}
